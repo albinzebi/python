@@ -1,0 +1,1 @@
+Design a program such that it converts a sentence into wordlist. Reverse the wordlist then. Write the code and output for the same. 

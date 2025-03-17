@@ -1,0 +1,3 @@
+ You are a software developer who wants to establish yourself as a skilled and versatile programmer. To achieve this, you have decided to create a work portfolio that showcases your ability to develop custom software solutions. This portfolio will be your gateway to attract potential clients and establish yourself as a freelancer. 
+
+As part of your portfolio, you plan to create your own function that does some useful computation using an incremental development approach that will demonstrate your programming skills and problem-solving abilities. 
