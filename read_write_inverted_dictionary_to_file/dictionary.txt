@@ -1,0 +1,1 @@
+{'colors': ['red', 'green', 'blue'], 'name': 'Albin', 'age': 33, ('a', 'b'): 'letters', 2025: 'year', 'fruits': ('apple', 'orange')}

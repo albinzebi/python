@@ -1,0 +1,1 @@
+{'red': 'colors', 'green': 'colors', 'blue': 'colors', 'Albin': 'name', 33: 'age', 'letters': ('a', 'b'), 'year': 2025, ('apple', 'orange'): 'fruits'}
